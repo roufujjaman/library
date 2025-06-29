@@ -4,8 +4,6 @@ Links:
 
 > ✅ **[LIVE API LINK](https://library-ecru-beta.vercel.app/api/books)**
 
-> ✅ **[GITHUB REPO](https://github.com/roufujjaman/library)**
-
 Contents:
 
 - [Installation](#-installation)
